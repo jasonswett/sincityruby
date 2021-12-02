@@ -67,3 +67,8 @@ td {
   max-width: 600px;
   margin: 0 auto;
 }
+
+.speakers p {
+  padding: 0;
+  margin: 10px 0 20px 0;
+}
