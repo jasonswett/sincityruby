@@ -16,6 +16,22 @@ a, a:visited {
   font-size: 18px;
 }
 
+.ticket-price {
+  color: #F0F;
+}
+
+.buy-ticket {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background-color: #F00;
+  color: #000 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
 h1 {
   font-size: 48px;
   margin: 40px 0 0 0;
